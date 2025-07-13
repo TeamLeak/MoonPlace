@@ -1,0 +1,166 @@
+{
+  "common": {
+    "welcome": "Welcome to",
+    "home": "Home",
+    "shop": "Shop",
+    "contact": "Contact",
+    "login": "Login",
+    "dashboard": "Dashboard",
+    "features": "Features",
+    "screenshots": "Screenshots",
+    "serverFeatures": "Server Features",
+    "loading": "Loading...",
+    "startPlaying": "Start Playing",
+    "buyCoins": "Buy Coins",
+    "online": "Online",
+    "version": "Version",
+    "serverIp": "play.moonplace.world",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "close": "Close",
+    "serverStats": "Server Stats",
+    "serverStatus": "Server Status",
+    "serverVersion": "Server Version",
+    "playersOnline": "Players Online",
+    "serverUptime": "Uptime",
+    "getStarted": "Get Started",
+    "joinNow": "Join Now",
+    "joinServer": "Join Server",
+    "joinServerDescription": "Start your adventure right now!",
+    "needHelp": "Need help? Contact us on",
+    "or": "or",
+    "allRightsReserved": "All rights reserved.",
+    "step": "Step",
+    "downloadMinecraft": "Download Minecraft",
+    "connect": "Connect"
+  },
+  "home": {
+    "heroTitle": "The best Minecraft server with unique features, friendly community and exciting adventures. Join us now!",
+    "serverFeatures": "Unique features for players",
+    "serverFeaturesSubtitle": "Explore amazing features that make our server unique",
+    "startYourAdventure": "Ready to start your adventure?",
+    "joinThousands": "Join thousands of players. Join clans, participate in wars and become a legend.",
+    "createAccount": "Create Account"
+  },
+  "launcher": {
+    "step1": "Step 1: Download the launcher",
+    "step2": "Step 2: Connect",
+    "downloadDescription": "Install Minecraft 1.20.1 with Optifine or Sodium for better performance",
+    "downloadForWindows": "Download for Windows",
+    "downloadForMac": "Download for Mac",
+    "connectDescription": "Add our IP to your server list and start playing!",
+    "howToConnect": "How to connect",
+    "copied": "Copied!",
+    "serverStatus": "Server Status",
+    "playersOnline": "Players Online",
+    "version": "Version",
+    "uptime": "Uptime",
+    "support": "Support"
+  },
+  "features": [
+    {
+      "title": "PVP ARENAS",
+      "description": "Battle other players in special arenas with unique game modes"
+    },
+    {
+      "title": "CLANS",
+      "description": "Create your own clan, capture territories and participate in large-scale wars"
+    },
+    {
+      "title": "QUESTS",
+      "description": "Complete exciting quests with branching storylines"
+    },
+    {
+      "title": "ECONOMY",
+      "description": "Trade resources, build an empire, manage the market"
+    }
+  ],
+  "screenshots": [
+    {
+      "title": "Server Spawn",
+      "description": "Beautiful and functional spawn for new players"
+    },
+    {
+      "title": "Player City",
+      "description": "One of the largest player-built cities"
+    },
+    {
+      "title": "PvP Arena",
+      "description": "Arena for player battles"
+    }
+  ],
+  "launcherModal": {
+    "title": "🚀 Start playing right now!",
+    "subtitle": "Join the best Minecraft server",
+    "step1": "Download the launcher",
+    "step1Description": "Install Minecraft 1.20.1 with Optifine or Sodium for better performance",
+    "step2": "Connect",
+    "step2Description": "Add our IP to your server list and start playing!",
+    "serverStats": "Server Stats",
+    "serverVersion": "Version",
+    "playersOnline": "Players Online",
+    "serverUptime": "Uptime",
+    "gotIt": "Got it, I'm playing!",
+    "needHelp": "Need help? Contact us on",
+    "discord": "Discord",
+    "telegram": "Telegram"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "password": "Password",
+    "forgotPassword": "Forgot password",
+    "rememberMe": "Remember me",
+    "orContinueWith": "Or continue with",
+    "signInWithGoogle": "Sign in with Google",
+    "signInWithGithub": "Sign in with GitHub",
+    "signInWithMicrosoft": "Sign in with Microsoft",
+    "signInWithDiscord": "Sign in with Discord",
+    "checkYourEmail": "Check your email",
+    "resetEmailSent": "We've sent you an email with a link to reset your password.",
+    "enterEmailToReset": "Enter your email address and we'll send you a link to reset your password.",
+    "sendResetLink": "Send Reset Link",
+    "sending": "Sending...",
+    "resetInstructions": "If an account exists with the email you entered, you will receive a password reset link shortly.",
+    "backToLogin": "Back to login",
+    "rememberPassword": "Remembered your password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "createAccount": "Create Account",
+    "username": "Username",
+    "usernamePlaceholder": "Choose a username",
+    "confirmPassword": "Confirm Password",
+    "agreeTo": "I agree to the",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "and": "and",
+    "loggingOut": "Logging out...",
+    "pleaseWait": "Please wait while we sign you out",
+    "signInSubtitle": "Sign in to your account to continue",
+    "registerSubtitle": "Create your account to get started",
+    "passwordRequirements": "Password must be at least 8 characters long"
+  },
+  "profile": {
+    "overview": "Overview",
+    "stats": "Stats",
+    "settings": "Settings",
+    "memberSince": "Member since",
+    "topUpBalance": "Top Up Balance",
+    "accountInfo": "Account Information",
+    "lastLogin": "Last Login",
+    "quickStats": "Quick Stats",
+    "playTime": "Play Time",
+    "achievements": "Achievements",
+    "friends": "Friends",
+    "coins": "Coins",
+    "playerStats": "Player Statistics",
+    "statsComingSoon": "Detailed player statistics coming soon!",
+    "accountSettings": "Account Settings",
+    "settingsComingSoon": "Account settings will be available soon!",
+    "accessDenied": "Access Denied",
+    "pleaseLogin": "Please sign in to view your profile"
+  }
+}
